@@ -23,7 +23,7 @@ The end result is that using fewer features with the PCA method yields very simi
 
 
 The two set of graphs below pertain to the last section and summarize most of the work done:
-![Scatter Plots: Non-PCA and PCA](Images/elbows.PNG)
+![Elbow Plots: Non-PCA and PCA](Images/elbows.PNG)
 
 ![Scatter Plots: Non-PCA and PCA](Images/scatter.PNG)
 
